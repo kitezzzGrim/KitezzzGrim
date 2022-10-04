@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     - 目前正在漫无目的学习...我也不知道学啥 🤣
 
 - Lists of Projects
+    - [KitezzzGrim-博客](https://kitezzzgrim.ffffffff0x.com) - 作者随笔
     - [CTF-Note](https://github.com/kitezzzGrim/CTF-Note) -记录CTF知识、刷题记录、工具等 👈
     - [Tongda-kite](https://github.com/kitezzzGrim/tongda-exp) - Python编写的多个通达常见漏洞exp 👈
     - [KiteCollection](https://github.com/kitezzzGrim/KiteCollection) - IP格式整理脚本 👈
